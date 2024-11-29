@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/253fac49-7aff-407d-9ff4-bb7059d08b54
    streamlit run main.py
 
 
-##🙂 If you like this project, consider giving it a ⭐. [Project](https://github.com/yourusername/sentiment-analysis)!
+##🙂 If you like this project, consider giving it a ⭐. [Project](https://github.com/rambabu-akkapolu/sentiment-analysis)!
 
 ## Back to Top
 [Back to Top](#sentiment-analysis-of-brand-reviews)
