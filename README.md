@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Sentiment Analysis of Brand Reviews</h1>
-</p>
+
+<h1 align="center">Sentiment Analysis of Brand Reviews</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
