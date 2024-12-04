@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Cleantext-1.1.4-red" alt="Cleantext">
 </p>
 
-This project performs sentiment analysis on brand reviews using TextBlob and Streamlit. It provides a web interface to analyze individual text reviews and CSV files containing multiple reviews.
+A web-based interface that analyzes customer reviews using TextBlob for sentiment classification (positive, negative, or neutral). Built with Streamlit, it supports real-time text analysis and batch processing via CSV uploads.
 
 ## Features
 
@@ -20,8 +20,6 @@ This project performs sentiment analysis on brand reviews using TextBlob and Str
 - Download the analyzed CSV file with sentiment scores and analysis.
 
 ## Real-World Applications
-
-Sentiment analysis of brand reviews has several real-world applications, including:
 
 - **Customer Feedback Analysis**: Businesses can analyze customer reviews to understand their sentiments towards products or services, helping them improve customer satisfaction.
 - **Market Research**: Companies can use sentiment analysis to gauge public opinion about their brand or competitors, aiding in strategic decision-making.
@@ -68,6 +66,6 @@ https://github.com/user-attachments/assets/253fac49-7aff-407d-9ff4-bb7059d08b54
    streamlit run main.py
 
 
-##🙂 If you like this project, consider giving it a ⭐. [Project](https://github.com/rambabu-akkapolu/sentiment-analysis)!
+## 🙂 If you like this project, consider giving it a ⭐. Back to [Project](https://github.com/rambabu-akkapolu/sentiment-analysis)
 
-[Back to Top](#sentiment-analysis-of-brand-reviews)
+[Back to Top⬆️](#sentiment-analysis-of-brand-reviews)
