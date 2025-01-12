@@ -1,5 +1,5 @@
 
-<h1 align="center">Sentiment Analysis of Brand Reviews</h1>
+<h1 id="top" align="center">Sentiment Analysis of Brand Reviews</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python">
@@ -18,6 +18,9 @@ A web-based interface that analyzes customer reviews using TextBlob for sentimen
 - Clean text input using `cleantext`.
 - Upload and analyze CSV files containing reviews.
 - Download the analyzed CSV file with sentiment scores and analysis.
+
+  ![ReviewSentinel-mockup](https://github.com/user-attachments/assets/850f4de8-7215-42ad-b2d8-9a171f63a94e)
+
 
 ## Real-World Applications
 
@@ -66,6 +69,6 @@ https://github.com/user-attachments/assets/253fac49-7aff-407d-9ff4-bb7059d08b54
    streamlit run main.py
 
 
-## 🙂 If you like this project, consider giving it a ⭐. Back to [Project](https://github.com/rambabu-akkapolu/sentiment-analysis)
+## 🙂 If you like this project, consider giving it a ⭐. 
 
-[Back to Top⬆️](#sentiment-analysis-of-brand-reviews)
+[Back to Top⬆️](#top)
