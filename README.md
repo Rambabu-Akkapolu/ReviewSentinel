@@ -53,8 +53,8 @@ https://github.com/user-attachments/assets/253fac49-7aff-407d-9ff4-bb7059d08b54
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rambabu-akkapolu/sentiment-analysis.git
-   cd sentiment-analysis
+   git clone https://github.com/rambabu-akkapolu/ReviewSentinels.git
+   cd ReviewSentinel
 2. Create a virtual environment:
    ```sh
     python -m venv venv
